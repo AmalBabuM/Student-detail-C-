@@ -1,0 +1,15 @@
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\bin\Debug\net6.0\rough.exe
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\bin\Debug\net6.0\rough.deps.json
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\bin\Debug\net6.0\rough.runtimeconfig.json
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\bin\Debug\net6.0\rough.dll
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\bin\Debug\net6.0\rough.pdb
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\obj\Debug\net6.0\rough.csproj.AssemblyReference.cache
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\obj\Debug\net6.0\rough.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\obj\Debug\net6.0\rough.AssemblyInfoInputs.cache
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\obj\Debug\net6.0\rough.AssemblyInfo.cs
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\obj\Debug\net6.0\rough.csproj.CoreCompileInputs.cache
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\obj\Debug\net6.0\rough.dll
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\obj\Debug\net6.0\refint\rough.dll
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\obj\Debug\net6.0\rough.pdb
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\obj\Debug\net6.0\rough.genruntimeconfig.cache
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\rough\obj\Debug\net6.0\ref\rough.dll
